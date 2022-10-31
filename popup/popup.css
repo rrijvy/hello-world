@@ -1,0 +1,14 @@
+.body {
+  display: block;
+  width: 500px;
+  height: 500px;
+}
+
+.row {
+  width: 100%;
+  height: fit-content;
+}
+
+.text-align-center {
+  text-align: center;
+}
